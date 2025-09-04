@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Lucas Leal  
 
 💻 Desenvolvedor **Full Stack | .NET | ASP.NET MVC | Angular | PostgreSQL**  
-📍 Salvador - Bahia, Brasil  
+📍 Aracaju - Sergipe, Brasil  
 
 Sou Desenvolvedor **Full Stack** formado em **Análise e Desenvolvimento de Sistemas** pela **Universidade Tiradentes (UNIT)**. Natural de Salvador - BA e atualmente morando em Aracaju - SE, venho adquirindo experiência prática no ecossistema **.NET**, atuando principalmente com **C#, ASP.NET Core MVC, Razor e PostgreSQL**.
 
