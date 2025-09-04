@@ -1,8 +1,4 @@
-<div>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=false&vCenter=true&random=false&width=435&lines=👋+Olá,+eu+sou+o+Lucas+Leal" alt="Typing SVG"/>
-  </a>
-</div>
+# 👋 Olá, eu sou o Lucas Leal  
 
 💻 Desenvolvedor **Full Stack | .NET | ASP.NET MVC | Angular | PostgreSQL**  
 📍 Salvador - Bahia, Brasil  
