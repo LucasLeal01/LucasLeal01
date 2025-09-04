@@ -1,7 +1,11 @@
-# 👋 Olá, eu sou o Lucas Leal  
+<div>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=false&vCenter=true&random=false&width=435&lines=👋+Olá,+eu+sou+o+Lucas+Leal" alt="Typing SVG"/>
+  </a>
+</div>
 
 💻 Desenvolvedor **Full Stack | .NET | ASP.NET MVC | Angular | PostgreSQL**  
-📍 Aracaju - Sergipe, Brasil  
+📍 Salvador - Bahia, Brasil  
 
 Sou Desenvolvedor **Full Stack** formado em **Análise e Desenvolvimento de Sistemas** pela **Universidade Tiradentes (UNIT)**. Natural de Salvador - BA e atualmente morando em Aracaju - SE, venho adquirindo experiência prática no ecossistema **.NET**, atuando principalmente com **C#, ASP.NET Core MVC, Razor e PostgreSQL**.
 
@@ -13,9 +17,12 @@ Busco sempre aprimorar minhas habilidades em **microsserviços, CI/CD, Docker** 
 
 ## 🌐 Conecte-se comigo  
 
+
 <p>
-  <a href="https://www.linkedin.com/in/luccasleaal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/LucasLeal01"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/luccasleaal/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/LucasLeal01"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/eilucasleal"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:Luccas.leaal@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
